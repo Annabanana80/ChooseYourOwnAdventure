@@ -1,0 +1,37 @@
+*{
+	font-family: 'Inconsolata', monospace;
+}
+
+#title{
+	text-align: center;
+	margin-top:100px;
+}
+.container{
+	border: 1px solid black;
+	margin-right:15%;
+	margin-left:15%;
+}
+p{
+	padding-left:15px;
+	padding-right:15px;
+}
+button{
+	margin: 0 auto;
+	display: block;
+	width: 25%;
+	height:45px;
+	border-radius: 15px;
+	font-size: 100%;
+}
+#start{
+	margin-top: 25%;
+	
+}
+#button1{
+	float:left;
+	margin-left:25%;
+}
+#button2{
+	float:right;
+	margin-right:25%;
+}
